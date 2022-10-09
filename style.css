@@ -35,3 +35,7 @@ margin-right:10%;
  background-color:#787878;
  float:left;
 }
+
+#clear{
+clear:both;
+}
