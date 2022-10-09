@@ -5,18 +5,18 @@ background-image:url("https://images.pexels.com/photos/2387793/pexels-photo-2387
 h1 {
      text-align:center;
      background-color:#E6E6FA;
-     margin-top:5%;
-     margin-bottom:5%;
+     margin-top:10%;
+     margin-bottom:10%;
      font-family: 'CharisSILRegular';
      font-weight: normal;
      font-style:600%;}
 
      #container {
      align:center;
-     margin-top:5%;
+     margin-top:10%;
      margin-left:auto;
      margin-right:auto;
-     margin-bottom:5%;}
+     margin-bottom:10%;}
 
      .row{
       position:relative;
