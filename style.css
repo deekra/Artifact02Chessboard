@@ -14,8 +14,8 @@ h1 {
      #container {
      align:center;
      margin-top:5%;
-     margin-left:5%;
-     margin-right:5%;
+     margin-left:auto;
+     margin-right:auto;
      margin-bottom:5%;}
 
      .row{
