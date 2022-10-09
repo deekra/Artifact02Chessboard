@@ -7,6 +7,7 @@ h1 {
      background-color:#E6E6FA;
      margin-top:10%;
      margin-bottom:10%;
+     border:solid 1px
      font-family: 'CharisSILRegular';
      font-weight: normal;
      font-style:600%;}
@@ -40,3 +41,11 @@ h1 {
 
       #clear{
        clear:both;}
+
+
+       #footer {
+       border:solid 1px;
+       background-color:#E6E6FA;
+       margin-top:10%;
+       margin-bottom:10%;
+       }
