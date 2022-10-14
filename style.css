@@ -7,10 +7,10 @@ h1 {
      background-color:#E6E6FA;
      margin-top:10%;
      margin-bottom:10%;
-     border:solid 1px
+     border:solid 1px;
      font-family: 'CharisSILRegular';
      font-weight: normal;
-     font-style:600%;}
+     font-style: normal;}
 
      #container {
      align-content:center;
